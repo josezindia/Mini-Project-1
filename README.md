@@ -10,10 +10,7 @@ The objective of this mini project is to get familiar with setting up and progra
 
 ## Installation
 
-## Setting up the virtual environment and installing other dependencies
-
-
-## Starting the Server/Running the app
+## Running the Hadoop program
 
 ## License 
 
