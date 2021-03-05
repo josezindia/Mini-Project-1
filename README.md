@@ -34,7 +34,9 @@ ubuntu@cc-project-22:~/hadoop$vi /etc/core-site.xml
 ubuntu@cc-project-22:~/hadoop$vi /etc/hdfs-site.xml
 ubuntu@cc-project-22:~/hadoop$vi /etc/yarn-site.xml
 ubuntu@cc-project-22:~/hadoop$vi /etc/mapred-site.xml
-   Insert parts provided in each file above
+   
+   
+Insert parts provided in each file above
 ````
 3. Format the name node on master 
 ````
