@@ -86,3 +86,22 @@ Insert parts provided in each file above
    ubuntu@cc-project-22:~/hadoop$bin/hdfs dfs -cat output2/*
    ````
 
+## Cloud Computing Mini Project 1
+
+## Part 3: Developing a Hadoop program (25 points)
+
+## Group Members:
+
+* Anthony Harris: AGH41@pitt.edu
+* Haodong Xu: HAX31@pitt.edu
+* Jane Sunyoung Lee:   SUJ20@pitt.edu
+* Jose Zindia: jdz18@pitt.edu
+
+NB: See Attached problem1_code file for source code 
+   
+  ``` 
+  Change your own path in WordcountDriver class.
+  Run main() in WordcountDriver class.
+  Put your data in the input file.
+  Input n on the consle and get output in part-r-00000 in the output file.
+````
