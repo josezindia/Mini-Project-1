@@ -2,7 +2,7 @@
 
 ## Part 1: 
 
-Group Members:
+## Group Members:
 
 * Anthony Harris: AGH41@pitt.edu
 * Haodong Xu: HAX31@pitt.edu
