@@ -1,14 +1,22 @@
-# Mini-Project-1
+## Cloud Computing Mini Project 1
 
-The objective of this mini project is to get familiar with setting up and programming the Hadoop system
+## Part 1: 
+
+Group Members:
+
+•	Anthony Harris: AGH41@pitt.edu
+•	Haodong Xu: HAX31@pitt.edu
+•	* Jane Sunyoung Lee:   SUJ20@pitt.edu
+•	Jose Zindia: jdz18@pitt.edu
+
+NB: See Attached problem4_code file for source code 
+
 
 ## Requirements
 * Hadoop 
 * Virtual machines
 * [Putty](http://www.putty.org/)  - An SSH client 
 * Docker
-
-## Installation
 
 ## Running the Hadoop program
 
