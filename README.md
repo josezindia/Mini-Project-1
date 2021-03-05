@@ -14,7 +14,7 @@ The objective of this mini project is to get familiar with setting up and progra
 
 2021-03-04 
 
-### Part1
+### Part 1
 
 
 1. Configure /etc/hosts on every node
