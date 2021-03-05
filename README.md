@@ -4,12 +4,12 @@
 
 Group Members:
 
-•	Anthony Harris: AGH41@pitt.edu
-•	Haodong Xu: HAX31@pitt.edu
-•	* Jane Sunyoung Lee:   SUJ20@pitt.edu
-•	Jose Zindia: jdz18@pitt.edu
+** Anthony Harris: AGH41@pitt.edu
+** Haodong Xu: HAX31@pitt.edu
+** Jane Sunyoung Lee:   SUJ20@pitt.edu
+** Jose Zindia: jdz18@pitt.edu
 
-NB: See Attached problem4_code file for source code 
+NB: See Attached problem1_code file for source code 
 
 
 ## Requirements
@@ -19,11 +19,6 @@ NB: See Attached problem4_code file for source code
 * Docker
 
 ## Running the Hadoop program
-
-2021-03-04 
-
-### Part 1
-
 
 1. Configure /etc/hosts on every node
 
