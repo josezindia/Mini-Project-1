@@ -1,6 +1,6 @@
 ## Cloud Computing Mini Project 1
 
-## Part 1: 
+## Part 1: Setting up Hadoop: (50 points)
 
 ## Group Members:
 
