@@ -17,23 +17,28 @@ The objective of this mini project is to get familiar with setting up and progra
 ### [Part1]================
 
 1. Configure /etc/hosts on every node
+
+````
 ubuntu@cc-project-22:~/hadoop$vi /etc/hosts
    Type these:
    10.11.10.21 CC-project-22
    10.11.10.59 CC-project-23
    10.11.13.209 CC-project-24
-
+````
 2. Configure the cluster setting on every node
+
+````
 ubuntu@cc-project-22:~/hadoop$vi /etc/workers
 ubuntu@cc-project-22:~/hadoop$vi /etc/core-site.xml
 ubuntu@cc-project-22:~/hadoop$vi /etc/hdfs-site.xml
 ubuntu@cc-project-22:~/hadoop$vi /etc/yarn-site.xml
 ubuntu@cc-project-22:~/hadoop$vi /etc/mapred-site.xml
    Insert parts provided in each file above
-
+````
 3. Format the name node on master 
+````
 ubuntu@cc-project-22:~/hadoop$hadoop namenode -format
-
+````
 4. Start HDFS, YARN, and Job History Server
 ````
 ubuntu@cc-project-22:~/hadoop$sbin/start-dfs.sh
