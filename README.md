@@ -35,11 +35,13 @@ ubuntu@cc-project-22:~/hadoop$vi /etc/mapred-site.xml
 ubuntu@cc-project-22:~/hadoop$hadoop namenode -format
 
 4. Start HDFS, YARN, and Job History Server
+````
 ubuntu@cc-project-22:~/hadoop$sbin/start-dfs.sh
 ubuntu@cc-project-22:~/hadoop$sbin/start-yarn.sh
 ubuntu@cc-project-22:~/hadoop$sbin/mr-jobhistory-daemon.sh --config etc/hadoop/ start historyserver
-
+````
 5. Moniter the services as below
+````
 ubuntu@cc-project-22:~/hadoop$jps
 10261 Jps
 2521 ResourceManageer
@@ -57,17 +59,20 @@ ubuntu@cc-project-24:~$jps
 10073 Jus
 20299 NodeManager
 20109 DataNode
-
+````
 6. Test HDFS
+````
 ubuntu@cc-project-22:~/hadoop$bin/hdfs dfs -mkdir input
 ubuntu@cc-project-22:~/hadoop$bin/hdfs dfs put etc/hadoop/*.xml input
 ubuntu@cc-project-22:~/hadoop$bin/hdfs dfs -ls input
-
+````
 7. Test with wordcount program, input file
+
+````
 ubuntu@cc-project-22:~/hadoop$bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-3.2.1.jar wordcount input output2
 
 ubuntu@cc-project-22:~/hadoop$bin/hdfs dfs -cat output2/*
-
+````
 ==================
 
 ## License 
