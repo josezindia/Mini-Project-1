@@ -4,10 +4,10 @@
 
 Group Members:
 
-** Anthony Harris: AGH41@pitt.edu
-** Haodong Xu: HAX31@pitt.edu
-** Jane Sunyoung Lee:   SUJ20@pitt.edu
-** Jose Zindia: jdz18@pitt.edu
+* Anthony Harris: AGH41@pitt.edu
+* Haodong Xu: HAX31@pitt.edu
+* Jane Sunyoung Lee:   SUJ20@pitt.edu
+* Jose Zindia: jdz18@pitt.edu
 
 NB: See Attached problem1_code file for source code 
 
