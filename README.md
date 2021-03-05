@@ -75,7 +75,8 @@ ubuntu@cc-project-22:~/hadoop$bin/hdfs dfs -ls input
 7. Test with wordcount program, input file
 
 ````
-ubuntu@cc-project-22:~/hadoop$bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-3.2.1.jar wordcount input output2
+ubuntu@cc-project-22:~/hadoop$bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-3.2.1.jar
+wordcount input output2
 
 ubuntu@cc-project-22:~/hadoop$bin/hdfs dfs -cat output2/*
 ````
